@@ -1,0 +1,26 @@
+{
+    "id": "B9825C6A",
+    "path": "~/Documents/RANDIP/capstone/analysis_website/quant_analysis/1_installScripts.R",
+    "project_path": "1_installScripts.R",
+    "type": "r_source",
+    "hash": "2468743299",
+    "contents": "",
+    "dirty": false,
+    "created": 1755225994696.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "34,0",
+        "scrollLine": "14"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1755225958,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1755225958,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,27 @@
+install.packages("tidyverse")
+install.packages("dplyr")
+install.packages('writexl') #did not use
+install.packages("janitor")
+install.packages("gt")
+install.packages("webshot2") #did not use
+install.packages("tidytext")
+install.packages("ggplot2")
+install.packages("ggraph")
+install.packages("tm")
+install.packages("topicmodels")
+install.packages("reshape2")
+
+library(tidyverse)
+library(dplyr)
+library(writexl) #did not use
+library(janitor)
+library(gt)
+library(webshot2) #did not use
+library(tidytext)
+library(ggplot2)
+library(forcats)
+library(ggraph)
+library(igraph)
+library(tm)
+library(topicmodels)
+library(reshape2)

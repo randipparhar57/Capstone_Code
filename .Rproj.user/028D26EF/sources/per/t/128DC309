@@ -1,0 +1,26 @@
+{
+    "id": "128DC309",
+    "path": "~/Documents/RANDIP/capstone/analysis_website/quant_analysis/6_nGrams.R",
+    "project_path": "6_nGrams.R",
+    "type": "r_source",
+    "hash": "4082594260",
+    "contents": "",
+    "dirty": false,
+    "created": 1755232833485.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "107,10",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1754868090,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1754868090,
+    "read_only": false,
+    "read_only_alternatives": []
+}
